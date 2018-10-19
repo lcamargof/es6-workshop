@@ -1,4 +1,4 @@
-#ES6 Bedu Workshop
+# ES6 Bedu Workshop
 
 Just a quick workshop about ES6 features and how they are useful on the daily basis for a Javascript Dev.
 spread
